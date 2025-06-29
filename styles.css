@@ -704,6 +704,10 @@ button:focus {
   margin: 0 auto 30px auto;
 }
 
+.boton-container {
+  text-align: center;
+  margin-top: 10px;
+}
 .btn-descarga {
   background-color: #ffffff;
   color: black;
