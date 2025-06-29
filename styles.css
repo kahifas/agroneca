@@ -696,7 +696,7 @@ button:focus {
 }
 
 .pdf-portada {
-  max-width: auto;
+  max-width: 200px;
   height: auto;
   border-radius: 10px;
   margin-bottom: 20px;
