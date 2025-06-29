@@ -686,7 +686,7 @@ button:focus {
 
 .evento-documento {
   padding: 60px 20px;
-  background-color: #f7f7f7;
+  background-color: #2E7D32;
   text-align: center;
 }
 
@@ -704,7 +704,7 @@ button:focus {
 }
 
 .btn-descarga {
-  background-color: #1e3a8a;
+  background-color: #ffffff;
   color: white;
   padding: 12px 24px;
   font-weight: bold;
@@ -715,6 +715,6 @@ button:focus {
 }
 
 .btn-descarga:hover {
-  background-color: #2c4baf;
+  background-color: #fff222;
 }
 
