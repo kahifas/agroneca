@@ -691,14 +691,14 @@ button:focus {
 }
 
 .container-doc {
-  max-width: 800px;
+  max-width: 600px;
   margin: 0 auto;
 }
 
 .pdf-portada {
-  max-width: 300px;
+  max-width: 280px;
   height: auto;
-  border-radius: 8px;
+  border-radius: 10px;
   margin-bottom: 20px;
   box-shadow: 0 4px 10px rgba(0,0,0,0.1);
 }
