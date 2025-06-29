@@ -681,3 +681,40 @@ button:focus {
 .boton-sonido:hover {
   background-color: rgba(0,0,0,0.8);
 }
+
+/* documentopdf */
+
+.evento-documento {
+  padding: 60px 20px;
+  background-color: #f7f7f7;
+  text-align: center;
+}
+
+.container-doc {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.pdf-portada {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+.btn-descarga {
+  background-color: #1e3a8a;
+  color: white;
+  padding: 12px 24px;
+  font-weight: bold;
+  border-radius: 6px;
+  text-decoration: none;
+  display: inline-block;
+  transition: background 0.3s ease;
+}
+
+.btn-descarga:hover {
+  background-color: #2c4baf;
+}
+
