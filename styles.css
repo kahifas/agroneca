@@ -650,9 +650,10 @@ button:focus {
 /* VIDEO */
 .seccion-video {
   position: relative;
-  width: 100%;
+  width: 100vw;
   max-height: 80vh;
   overflow: hidden;
+  position: relative;
 }
 
 .seccion-video video {
