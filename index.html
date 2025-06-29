@@ -279,6 +279,18 @@
             </div>
         </div>
     </footer>
+
+    <script>
+          const video = document.getElementById('videoPromo');
+          const botonSonido = document.getElementById('toggleSound');
+
+          botonSonido.addEventListener('click', () => {
+            video.muted = !video.muted;
+            botonSonido.textContent = video.muted ? '🔈 Activar sonido' : '🔇 Silenciar';
+             });
+    </script>
+
+    
     <script>
       const faders = document.querySelectorAll('.fade-in');
       const appearOnScroll = new IntersectionObserver((entries, observer) => {
